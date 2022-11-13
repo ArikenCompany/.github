@@ -31,3 +31,8 @@
   </a>
   </a>
 </div>
+
+# Developer
+  <a style="margin-left:10px" href="https://github.com/suzuki3jp">
+   <img alt="suzuki3jp" src="./image/suzuki.jpg" width="50px">
+  </a>
