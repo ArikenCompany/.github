@@ -34,5 +34,5 @@
 
 # Developer
   <a style="margin-left:10px" href="https://github.com/suzuki3jp">
-   <img alt="suzuki3jp" src="./image/suzuki.jpg" width="50px">
+   <img alt="suzuki3jp" src="https://github.com/ArikenCompany/.github/blob/main/profile/image/suzuki.jpg" width="50px">
   </a>
