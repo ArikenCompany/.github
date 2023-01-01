@@ -1,38 +1,79 @@
 # [ArikenCompany](https://www.twitch.tv/ariken_company)
 
-# Languages & Tools & Packages
-<div style="display:flex;">
-  <a style="margin-left:10px" href="https://nodejs.org/ja/">
-    <img alt="Nodejs" height="50px" src="https://nodejs.org/static/images/logo.svg"/>
-  </a>
-  <a style="margin-left:10px" href="https://git-scm.com/">
-    <img alt="git" height="50px" src="https://git-scm.com/images/logos/logomark-orange@2x.png"/>
-  </a>
-  <a style="margin-left:10px" href="https://github.co.jp/">
-    <img alt="GitHub" height="50px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
-  </a>
-  <a style="margin-left:10px" href="https://developer.mozilla.org/ja/docs/Web/JavaScript">
-    <img alt="JavaScript" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433"/>
-  </a>
-  <a style="margin-left:10px" href="https://developer.mozilla.org/ja/docs/Web/HTML">
-    <img alt="HTML" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png"/>
-  </a>
-  <a style="margin-left:10px" href="https://developer.mozilla.org/ja/docs/Web/CSS">
-    <img alt="css" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"/>
-  </a>
-  <a style="margin-left:10px" href="https://discord.js.org/#/">
-    <img alt="css" height="50px" src="https://avatars.githubusercontent.com/u/26492485?s=200&v=4"/>
-  </a>
-  <a style="margin-left:10px" href="https://tmijs.com/">
-    <img alt="tmi.js" height="50px" src="https://avatars.githubusercontent.com/u/17866914?s=200&v=4"/>
-  </a>
-  <a style="margin-left:10px" href="https://dev.twitch.tv/">
-    <img alt="TwitchDev" height="50px" src="https://avatars.githubusercontent.com/u/26467327?s=200&v=4"/>
-  </a>
-  </a>
-</div>
+## Feature
+- チャットコマンド / Chat Commands
+- チャットコマンドをdiscordから管理する / Manage chat commands from discord.
+- [リアルタイムで更新されるコマンド一覧 / List of commands updated in real time.](https://arikencompany.github.io/pages/commands.html)
+- コマンドの内容に使用できるいろいろな変数・関数 (fetch, mod, alias etc...) / Various variables and functions that can be used for command content.
+- 等々 / and more...
 
-# Developer
+## Languages & Tools
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+            alt="express"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="typescript"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+            alt="linux"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs"
+            width="40"
+            height="40"
+        />
+    </a>
+</p>
+
+## Help
+- [Support Server](https://discord.gg/P6JhU9E2AP)
+
+## Developer
   <a style="margin-left:10px" href="https://github.com/suzuki3jp">
    <img alt="suzuki3jp" src="https://avatars.githubusercontent.com/u/99058480?v=4" width="50px">
   </a>
