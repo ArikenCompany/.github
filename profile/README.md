@@ -71,7 +71,7 @@
 </p>
 
 ## Help
-- [Support Server](https://discord.gg/P6JhU9E2AP)
+- [Support Server](https://discord.gg/Dmd3PbTz4w)
 
 ## Developer
   <a style="margin-left:10px" href="https://github.com/suzuki3jp">
